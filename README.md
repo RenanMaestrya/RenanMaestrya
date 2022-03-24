@@ -27,8 +27,8 @@ const Renan = {
   code: [Javascript, HTML, CSS];
   dream: "Viver o sonho de ser um Dev realizado."; 
   
- challenge: "Estou participando do #100DaysOfCode, meu foco no desafio é dominar melhor 
-  a triplice aliança do Front-End(JS, CSS, HTML)"
+ challenge: "Estou participando do #100DaysOfCode, meu foco é manifestar um melhor domínio sobre
+  a triplice aliança do Front-End(JS, CSS, HTML)."
 }
 ```
   ### Contato em:

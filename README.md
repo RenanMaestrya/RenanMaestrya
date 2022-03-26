@@ -39,7 +39,7 @@ const Renan = {
   <a href = "mailto:renanalmeida2.ra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/qepBTwjZYm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
-  ### Atividade:
+  ### Atividade em commits:
   ![Snake animation](https://github.com/Renan-Andrade-de-Almeida/Renan-Andrade-de-Almeida/blob/output/github-contribution-grid-snake.svg)
 
  

@@ -1,4 +1,4 @@
-### <h1>Olá, Eu sou Renan Andrade de Almeida</h1>
+### <h1>Olá, me chamo Renan Andrade de Almeida</h1>
 
 <h2>⌨Desenvolvedor Front-end Jr</h2>
 <div>

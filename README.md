@@ -40,7 +40,6 @@ const Renan = {
   <a href="https://discord.gg/qepBTwjZYm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
   ### Atividade:
-  
   ![Snake animation](https://github.com/Renan-Andrade-de-Almeida/Renan-Andrade-de-Almeida/blob/output/github-contribution-grid-snake.svg)
 
  

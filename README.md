@@ -27,7 +27,7 @@ const Renan = {
   code: [Javascript, HTML, CSS];
   dream: "Viver o sonho de ser um Dev realizado."; 
   
-  challenge: "Estou participando do #100DaysOfCode, meu foco é manifestar um melhor domínio sobre
+  challenge: "Estou participando do #7DaysOfCode da alura, meu foco é manifestar um melhor domínio sobre
   a triplice aliança do Front-End(JS, CSS, HTML)."
 }
 ```

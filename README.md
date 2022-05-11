@@ -27,7 +27,7 @@ const Renan = {
   code: [Javascript, HTML, CSS];
   dream: "Viver o sonho de ser um Dev realizado."; 
   
-  challenge: "Estudando Web Dev, meu foco é manifestar um melhor domínio sobre
+  challenge: "Estudar Web Dev por 6 meses, meu foco é manifestar um melhor domínio sobre
   a triplice aliança do Front-End(JS, CSS, HTML)."
 }
 ```

@@ -27,7 +27,7 @@
 ```javascript
 const Renan = {
   pronouns: "ele" | "dele";
-  code: [Javascript, HTML, CSS];
+  code: [Javascript, C++, Python];
   dream: "Viver o sonho de ser um Dev realizado."; 
   
   challenge: "Estudar Web Dev por 6 meses, meu foco é manifestar um melhor domínio sobre

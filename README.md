@@ -30,8 +30,7 @@ const Renan = {
   code: [Javascript, C++, Python];
   dream: "Viver o sonho de ser um Dev realizado."; 
   
-  challenge: "Estudar Web Dev por 6 meses, meu foco é manifestar um melhor domínio sobre
-  a triplice aliança do Front-End(JS, CSS, HTML)."
+  challenge: "Ter pelo menos 1 commit(util) por dia durante um ano."
 }
 ```
   ### Contato em:

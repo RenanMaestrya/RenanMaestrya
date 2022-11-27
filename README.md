@@ -1,4 +1,4 @@
-### <h1>Olá, me chamo Renan, seja bem vindo</h1>
+### <h1>Olá, me chamo Renan, seja bem vindo ao meu github</h1>
 
 <h2>👨‍💻 Desenvolvedor Front-end Jr </h2>
 <div>

@@ -44,7 +44,7 @@ const Renan = {
   <a href = "mailto:renanalmeida2.ra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ### Commits:
-  ![Snake animation](https://github.com/Renan-Andrade-de-Almeida/Renan-Andrade-de-Almeida/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/RenanMaestrya/RenanMaestrya/blob/output/github-contribution-grid-snake.svg)
 
  
 </div>

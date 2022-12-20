@@ -1,6 +1,6 @@
 ### <h1>Olá, me chamo Renan, seja bem vindo ao meu github👨‍💻</h1>
 
-<h2>👨‍💻 Desenvolvedor Front-end Jr </h2>
+<h2>👨‍💻 Desenvolvedor Mobile Jr </h2>
 <div>
   <a href="https://github.com/Renan-Andrade-de-Almeida">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RenanMaestrya&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&title_color=ff901f"/>

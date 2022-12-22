@@ -24,12 +24,12 @@
 ### About me:
   
 ```javascript
-const Renan = {
+let Renan = {
   pronouns: "he" | "him";
   code: [Typescript(React Native) and Python];
-  dream: "Being able to work with what I like most, programming"; 
+  dream: "Working with what I like the most: programming"; 
   
-  challenge: "Have at least 1 commit(useful) per day for 1 year."
+  challenge: "Have at least 1 commit(useful) per day for a whole year.";
 }
 ```
   ### Contact:

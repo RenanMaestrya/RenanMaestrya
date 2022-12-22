@@ -1,6 +1,6 @@
-### <h1>Olá, me chamo Renan, seja bem vindo ao meu github👨‍💻</h1>
+### <h1>Hello, my name is renan, welcome to my github👨‍💻</h1>
 
-<h2>👨‍💻 Desenvolvedor Mobile Jr 📱</h2>
+<h2>👨‍💻 Mobile and Front-end Developer 📱</h2>
 <div>
   <a href="https://github.com/Renan-Andrade-de-Almeida">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RenanMaestrya&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&title_color=ff901f"/>
@@ -9,7 +9,7 @@
 
 
 
-### Atualmente desenvolvendo estudos e projetos em:
+### Currently developing projects in the following technologies:
     
   <div style="display: inline_block"><br>
   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -22,13 +22,13 @@
     
 ##
 
-### Sobre mim:
+### About me:
   
 ```javascript
 const Renan = {
-  pronouns: "ele" | "dele";
+  pronouns: "he" | "him";
   code: [Javascript, Typescript, C++, Python];
-  dream: "Viver o sonho de ser um Dev realizado."; 
+  dream: "Live as a big dev!"; 
   
   challenge: "Ter pelo menos 1 commit(util) por dia durante um ano."
 }

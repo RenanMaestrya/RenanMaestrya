@@ -1,4 +1,4 @@
-### <h1>Hello, my name is renan, welcome to my github👨‍💻</h1>
+### <h1>Hello, my name is Renan, welcome to my github👨‍💻</h1>
 
 <h2>👨‍💻 Mobile and Front-end Developer 📱</h2>
 <div>
@@ -14,7 +14,6 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="C PLUS PLUS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   
           
 
@@ -27,13 +26,13 @@
 ```javascript
 const Renan = {
   pronouns: "he" | "him";
-  code: [Javascript, Typescript, C++, Python];
-  dream: "Live as a big dev!"; 
+  code: [Typescript(React Native) and Python];
+  dream: "Being able to work with what I like most, programming"; 
   
-  challenge: "Ter pelo menos 1 commit(util) por dia durante um ano."
+  challenge: "Have at least 1 commit(useful) per day for 1 year."
 }
 ```
-  ### Contato em:
+  ### Contact:
 <div> 
   <a href="https://www.linkedin.com/in/renan-andrade-de-almeida-31a525176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/renan_maestrya/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

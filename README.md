@@ -24,7 +24,7 @@
 ### About me:
   
 ```javascript
-let Renan = {
+const Renan = {
   pronouns: "he" | "him";
   code: [Typescript(React Native) and Python];
   dream: "Working with what I like the most: programming"; 

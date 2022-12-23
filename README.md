@@ -28,7 +28,7 @@
 ```javascript
 const Renan = {
   pronouns: "he" | "him",
-  code: [Typescript(React Native) and Python], 
+  code: [Typescript and Python], 
   tools: [React Native, Expo Go],
   dream: "Working with what I like the most: programming",
   challenge: "Have at least 1 commit(useful) per day for a whole year."

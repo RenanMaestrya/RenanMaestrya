@@ -31,7 +31,6 @@ const Renan = {
   code: [Typescript, Python], 
   tools: [React Native, Expo Go],
   dream: "Working with what I like the most: programming",
-  challenge: "Have at least 1 commit(useful) per day for a whole year."
 }
 ```
   ### Contact:

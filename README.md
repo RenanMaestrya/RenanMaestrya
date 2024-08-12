@@ -28,7 +28,7 @@
 const Renan = {
   pronouns: "he" | "him",
   code: [Typescript, Python], 
-  tools: [React Native, Expo Go],
+  tools: [React, React Native, Node, NextJS, TailwindCSS, Nest, Flask, PostgreSQL],
   dream: "Working with what I like the most: programming",
 }
 ```
